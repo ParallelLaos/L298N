@@ -5,7 +5,7 @@
 // Firmware by   Phonevilai VONGPHOM & Xangnam Phiasakha
 // Company       Parallel 
 
-// github      https://github.com/ParallelLaos/L298N
+// github        https://github.com/ParallelLaos/L298N
 
 #include <L298N.h>
 
