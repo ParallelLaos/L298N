@@ -8,12 +8,12 @@
 #include <L298N.h>
 
 //pin driver Motor
-#define ENA 2
-#define IN1  3
-#define IN2  4
-#define IN3  5
+#define ENA 10
+#define IN1  9
+#define IN2  8
+#define IN3  7
 #define IN4  6
-#define ENB 7
+#define ENB 5
 //---------------------------------//
 
 L298N myMotor(ENA,IN1,IN2,IN3,IN4,ENB);  // (PWM_A, pinA1, pinA2, pinB1, pinB2, PWM_B) 
